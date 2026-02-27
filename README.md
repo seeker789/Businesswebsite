@@ -1,4 +1,4 @@
-# Teen Engineering Studio Website
+# Suleyman Can Yilmaz Freelance Website
 
 Static marketing website ready to deploy on Vercel.
 
